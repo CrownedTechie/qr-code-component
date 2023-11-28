@@ -73,10 +73,11 @@ body {
     }
 
     container h2, .container p {
-    padding: 8px 10px;
-}
+        padding: 8px 10px;
+    }
 
     .container p {
-    margin-bottom: 20px;
-}
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
 }
