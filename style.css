@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-    width: 340px; height: 498px;
+    width: 340px; height: 496px;
     background-color: var(--White);
     display: flex;
     flex-direction: column;
@@ -50,8 +50,8 @@ body {
 
 .container p {
     color: var(--grayishblue);
-    font-size: 15px;
-    padding: 8px 28px;
+    font-size: 18px;
+    padding: 8px 16px;
     /*text-align: center;
     margin: 0 auto;*/
     /*margin-bottom: 40px;*/
