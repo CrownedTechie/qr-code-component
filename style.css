@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-    width: 340px; height: 500px;
+    width: 340px; height: 498px;
     background-color: var(--White);
     display: flex;
     flex-direction: column;
@@ -54,7 +54,7 @@ body {
     padding: 8px 28px;
     /*text-align: center;
     margin: 0 auto;*/
-    margin-bottom: 40px;
+    /*margin-bottom: 40px;*/
 }
 
 .attribution { 
@@ -67,9 +67,9 @@ body {
 }
 
 
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
     .container p {
         margin-top: 12px;
         padding:0 36px;
     }
-}
+}*/
