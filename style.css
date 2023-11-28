@@ -50,11 +50,13 @@ body {
 .container p {
     color: var(--grayishblue);
     font-size: 15px;
+    text-align: center;
+    margin: 0 auto;
     /*margin-bottom: 40px;*/
 }
 
 .container h2, .container p {
-    padding: 8px 16px;
+    padding: 8px 20px;
 }
 
 .attribution { 
@@ -69,7 +71,7 @@ body {
 
 @media screen and (max-width: 600px) {
     .container p {
-        margin-top: 16px;
+        margin-top: 12px;
         padding:0 36px;
     }
 }
