@@ -54,7 +54,7 @@ body {
 }
 
 .container h2, .container p {
-    padding: 8px 12px;
+    padding: 8px 16px;
 }
 
 .attribution { 
@@ -64,4 +64,15 @@ body {
 
 .attribution a { 
     color: var(--secondary); 
+}
+
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 340px; height: 500px;
+    }
+
+    container h2, .container p {
+    padding: 8px 8px;
+}
 }
