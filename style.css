@@ -45,18 +45,16 @@ body {
 .container h2 {
     color: var(--darkblue);
     margin-top: 10px;
+    padding: 8px 16px;
 }
 
 .container p {
     color: var(--grayishblue);
     font-size: 15px;
+    padding: 8px 28px;
     /*text-align: center;
     margin: 0 auto;*/
-    /*margin-bottom: 40px;*/
-}
-
-.container h2, .container p {
-    padding: 8px 26px;
+    margin-bottom: 40px;
 }
 
 .attribution { 
